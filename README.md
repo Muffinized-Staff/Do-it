@@ -14,4 +14,4 @@
 * Responsive, on all devices
 * Themes: Users can choose among different themes.
 
-Github Pages website: https://www.muffinized-staff.github.io/justdoIt/
+Github Pages website: 
